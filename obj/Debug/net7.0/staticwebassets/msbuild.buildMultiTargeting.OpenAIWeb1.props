@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OpenAIWeb1.props" />
+</Project>
